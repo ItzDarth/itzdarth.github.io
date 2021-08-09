@@ -1,7 +1,7 @@
 towns:
   - name: z
     status: TOWN
-    all: 100;69;100&200;200;200
+    all: 3728;150;-5712&3759;250;-5681
     podstavka: 150;69;150&180;148;180
 temmates:
 - ItzDarth
