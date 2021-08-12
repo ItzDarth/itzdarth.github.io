@@ -1,10 +1,9 @@
 towns:
-  - name: z
-    status: TOWN
-    all: 3728;150;-5712&3759;250;-5681
-    podstavka: 150;69;150&180;148;180
+  - name: Tilted
+    status: CAPITOL
+    all: 4048;60;-5712&4111;250;-5775
+    podstavka: 4095;60;-5728&4064;148;-5759
 temmates:
 - ItzDarth
 - WarVoin
 - areonk
-- Dev
