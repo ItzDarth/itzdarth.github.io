@@ -31,16 +31,29 @@ towns:
     status: WONDER
     all: 3920;60;-5712&3983;250;-5775
     podstavka: 3920;60;-5712&3983;148;-5775
+  - name: 'easy Бараки'
+    status: BARRACK
+    all: 4287;60;-6191&4256;250;-6160
+    podstavka: 4279;60;-6183&4262;148;-6165
 temmates:
 - ItzDarth
-- WarVoin
 - areonk
 - __NeiTRaLiTet__
 - boss_bass1019
 - Device
 - Farseer
+- WarVoin
 - WarVoin2
 - WarVoin3
 - WarVoin3
 - WarVoin4
 - Frnxx
+- ramtule
+- floozyron
+- zana21
+- Ylnaz_Bulat
+- CherryLady
+- PhillElite
+- SweetPear
+wrags:
+- TheRealSpace
