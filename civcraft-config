@@ -3,57 +3,7 @@ towns:
     status: CAPITOL
     all: 4048;60;-5712&4111;250;-5775
     podstavka: 4095;60;-5728&4064;148;-5759
-  - name: Batol
+  - name: ggg
     status: TOWN
-    all: 3983;60;-5327&3952;250;-5296
-    podstavka: 3962;60;-5302&3976;148;-5319
-  - name: hard
-    status: TOWN
-    all: 4432;60;-5424&4463;250;-5455
-    podstavka: 4457;60;-5447&4439;148;-5432
-  - name: z
-    status: TOWN
-    all: 3759;60;-5680&3728;250;-5711
-    podstavka: 3735;60;-5704&3753;148;-5687
-  - name: Rostov
-    status: TOWN
-    all: 3727;60;-6000&3696;250;-6031
-    podstavka: 3704;60;-6024&3719;148;-6008
-  - name: easy
-    status: TOWN
-    all: 4208;60;-6160&4239;250;-6191
-    podstavka: 4231;60;-6167&4216;148;-6183
-  - name: Talica
-    status: TOWN
-    all: 4544;60;-5919&4575;250;-5888
-    podstavka: 4567;60;-5895&4552;148;-5911
-  - name: 'Александрийская библиотека'
-    status: WONDER
-    all: 3920;60;-5712&3983;250;-5775
-    podstavka: 3920;60;-5712&3983;148;-5775
-  - name: 'easy Бараки'
-    status: BARRACK
-    all: 4287;60;-6191&4256;250;-6160
-    podstavka: 4279;60;-6183&4262;148;-6165
-temmates:
-- ItzDarth
-- areonk
-- __NeiTRaLiTet__
-- boss_bass1019
-- Device
-- Farseer
-- WarVoin
-- WarVoin2
-- WarVoin3
-- WarVoin3
-- WarVoin4
-- Frnxx
-- ramtule
-- floozyron
-- zana21
-- Ylnaz_Bulat
-- CherryLady
-- PhillElite
-- SweetPear
-wrags:
-- TheRealSpace
+    all: 4048;60;-5712&4111;250;-5775
+    podstavka: 4095;60;-5728&4064;148;-5759
